@@ -59,44 +59,7 @@
 		"TELEFONE" : "4444444444",
 		"MATRICULA_RESPONSAVEL" : 123456,
 		"ATIVO" : "0"
-	},
-	{
-		"ID" : 6,
-		"UNIDADE_CODIGO" : 12,
-		"UNIDADE" : "Tecnologia\t",
-		"SETOR_CODIGO" : 43,
-		"SETOR" : "Tecnologia\t",
-		"DIVISAO_CODIGO" : 35,
-		"DIVISAO" : "Tecnologia\t",
-		"TELEFONE" : "6577777777",
-		"MATRICULA_RESPONSAVEL" : 123456,
-		"ATIVO" : "1"
-	},
-	{
-		"ID" : 7,
-		"UNIDADE_CODIGO" : 15,
-		"UNIDADE" : "Comercial",
-		"SETOR_CODIGO" : 55,
-		"SETOR" : "Comercial",
-		"DIVISAO_CODIGO" : 34,
-		"DIVISAO" : "Comercial",
-		"TELEFONE" : "6577777777",
-		"MATRICULA_RESPONSAVEL" : 123456,
-		"ATIVO" : "1"
-	},
-	{
-		"ID" : 8,
-		"UNIDADE_CODIGO" : 16,
-		"UNIDADE" : "Operacional",
-		"SETOR_CODIGO" : 56,
-		"SETOR" : "Operacional",
-		"DIVISAO_CODIGO" : 35,
-		"DIVISAO" : "Operacional",
-		"TELEFONE" : "6577777777",
-		"MATRICULA_RESPONSAVEL" : 123456,
-		"ATIVO" : "1"
 	}
-	
   ],
   "servidores": [
     	{
@@ -158,54 +121,6 @@
 		"CARGO" : "teste4",
 		"ATIVO" : 0,
 		"CPF" : "55228737014"
-	},
-	{
-		"ID" : 6,
-		"MATRICULA" : 654321,
-		"NOME" : "Leonardo Dias",
-		"EMAIL" : "leonardo.dias@simetrya.com.br",
-		"UNIDADE_CODIGO" : 1,
-		"SETOR_CODIGO" : 1,
-		"DIVISAO_CODIGO" : 1,
-		"CARGO" : "SECRETÁRIO",
-		"ATIVO" : 1,
-		"CPF" : "74721534000"
-	},
-	{
-		"ID" : 7,
-		"MATRICULA" : 215167,
-		"NOME" : "Cauê Ricardo Monteiro",
-		"EMAIL" : "cauericardomonteiro__cauericardomonteiro@seraobenedito.com.br",
-		"UNIDADE_CODIGO" : 1,
-		"SETOR_CODIGO" : 1,
-		"DIVISAO_CODIGO" : 1,
-		"CARGO" : "Faz nada da vida",
-		"ATIVO" : 1,
-		"CPF" : "64238446070"
-	},
-	{
-		"ID" : 8,
-		"MATRICULA" : 352362,
-		"NOME" : "Julio Bernardo Vitor Rocha",
-		"EMAIL" : "juliobernardovitorrocha_@globo.com",
-		"UNIDADE_CODIGO" : 1,
-		"SETOR_CODIGO" : 1,
-		"DIVISAO_CODIGO" : 1,
-		"CARGO" : "Faz nada da vida também",
-		"ATIVO" : 1,
-		"CPF" : "26573922026"
-	},
-	{
-		"ID" : 9,
-		"MATRICULA" : 123123,
-		"NOME" : "Administrador",
-		"EMAIL" : null,
-		"UNIDADE_CODIGO" : 1,
-		"SETOR_CODIGO" : 1,
-		"DIVISAO_CODIGO" : 1,
-		"CARGO" : "Traficante",
-		"ATIVO" : 1,
-		"CPF" : "25453189061"
 	}
   ]
 }
