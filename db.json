@@ -39,7 +39,6 @@
   ],
   "servidores": [
     	{
-		"ID" : 1,
 		"MATRICULA" : 123456,
 		"NOME" : "André lana",
 		"EMAIL" : "sgd@simetrya.com.br",
@@ -51,7 +50,6 @@
 		"CPF" : "55298523005"
 	},
 	{
-		"ID" : 2,
 		"MATRICULA" : 111111,
 		"NOME" : "valdemir",
 		"EMAIL" : "valdemir.santos@simetrya.com.br",
@@ -63,7 +61,6 @@
 		"CPF" : "16885397008"
 	},
 	{
-		"ID" : 3,
 		"MATRICULA" : 999999,
 		"NOME" : "Odair",
 		"EMAIL" : "odair.lausman@simetrya.com.br",
